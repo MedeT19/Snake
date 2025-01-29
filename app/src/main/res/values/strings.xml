@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="coordsx">X</string>
+    <string name="coordsy">Y</string>
+    <string name="boton1">Dibujar serpiente</string>
+    <string name="boton2">Limpiar</string>
+    <string name="score_label">Puntaje: %1$d</string>
+    <string name="game_over">¡Fin del Juego!</string>
+
+</resources>
